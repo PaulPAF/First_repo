@@ -1,0 +1,40 @@
+h2,
+h1 {
+  font-size: 50px;
+  margin-top: 0;
+  margin-bottom: 20px;
+  text-align: center;
+}
+#saved {
+  font-size: 30px;
+  margin-top: 0;
+  margin-bottom: 20px;
+  text-align: center;
+}
+#increment-btn {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  display: block;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+#save-btn {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 10px 40px;
+  cursor: pointer;
+  display: block;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+body {
+  background-image: url("image/mntain.avif");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
